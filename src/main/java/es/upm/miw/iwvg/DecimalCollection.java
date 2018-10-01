@@ -22,7 +22,7 @@ public class DecimalCollection {
     public double sum() {
         assert collection != null;
         if (this.collection.isEmpty()) {
-            throw new ArithmeticException("Empty collection");
+            throw new ArithmeticException("Empty rrrrr collection");
         }
         /*
         double sum = 0;
